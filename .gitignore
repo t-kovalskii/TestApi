@@ -1,0 +1,5 @@
+.vscode/
+obj/
+bin/
+db.sqlite
+Source.zip
